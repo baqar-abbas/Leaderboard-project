@@ -46,11 +46,11 @@ h1 {
 }
 
 .displayScore li {
-   font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
 .displayScore li:nth-child(even) {
-    background-color: rgba(181, 179, 177, 0.272);;
+  background-color: rgba(181, 179, 177, 0.272);
 }
 
 .form {
