@@ -20,7 +20,6 @@ const getData = async () => {
 };
 
 const displayOnUI = (data) => {
-//   const data = await getData();
   const ul = document.querySelector('.displayScore');
   ul.innerHTML = '';
   data.forEach((users) => {
