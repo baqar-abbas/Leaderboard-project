@@ -48,7 +48,7 @@ HTML CSS JavaScript and Webpack
 
 ## 🚀 Live Demo <a name="live-demo"> </a>
 
-> Live Demo will be available after Approval
+> https://baqar-abbas.github.io/Leaderboard-project/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
